@@ -26,4 +26,4 @@ Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 Researchers are free to analyze and quote this data with proper attribution.
 
 ---
-**[View Full README for Detailed Background and Research Context](./README.md)**
+**[View Full README for Detailed Background and Research Context](./README_full.md)**
