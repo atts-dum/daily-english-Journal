@@ -46,7 +46,7 @@ Each daily entry typically consists of:
 
 - **Original:** The raw text I wrote by myself (revealing raw ability).
 - **Corrected:** A revised version generated using AI tools (mainly DeepL Translation/Write).
-- **Memo (dum!):** Rough, casual, and half-silly personal notes to capture my state of mind.
+- **Memo (dum!):** Rough, casual, and half-silly personal notes to capture my state of mind, written in Japanese.
 - **Picked Phrase:** Specific expressions I found useful during the process.
 
 ---
