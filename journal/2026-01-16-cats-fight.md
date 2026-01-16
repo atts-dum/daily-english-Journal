@@ -14,7 +14,7 @@ Suddenly, they started wrestling right in front of my car. I suppose mating seas
 Since it was interfering with my work, I honked twice to shoo them away.  
 
 ### Memo (dum!)
-車から日中狸が道ばたを歩く姿を2回見た。ふつう夜中だろう。警戒感が無いのか、それとも何か問題を抱えているのか
+車から日中狸が道ばたを歩く姿を2回見た。ふつう夜中だろう。警戒心が無いのか、それとも何か問題を抱えているのか
 
 ### Picked Phrase
 - cat’s love affair → matting seasonと修正、きっとドイツではこのように表現する
