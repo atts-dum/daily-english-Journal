@@ -18,7 +18,7 @@ This repository documents a daily English diary process: **Self-Written Draft �
 ## 📂 Entry Structure
 1.  **Original:** Raw, unpolished English output.
 2.  **Corrected:** Revised version by AI tools.
-3.  **Memo (dum!):** Casual reflections on daily life and the learning process.
+3.  **Memo (dum!):** Casual reflections on daily life and the learning process, written in Japanese.
 4.  **Picked Phrase:** Useful expressions acquired.
 
 ## ⚖️ License
