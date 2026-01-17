@@ -40,5 +40,16 @@ Ongoing daily diary entries published after the official start.
 Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Phrase**.
 
 ## 2026 January
-- [2026-01-06 - Earthquake occured](journal/2026-01-06.md)
+- [2026-01-06 - Earthquake occurred](journal/2026-01-06.md)
+- [2026-01-07 - Get Certified!](journal/2026-01-07.md)
+- [2026-01-08 - Is AI Wiseman?](journal/2026-01-08.md)
+- [2026-01-09 - Suppress appetite](journal/2026-01-09.md)
+- [2026-01-10 - Shopping with Y](journal/2026-01-10.md)
+- [2026-01-11 - Shopping with Y again!](journal/2026-01-11.md)
+- [2026-01-12 - Heinrich’s law](journal/2026-01-12.md)
+- [2026-01-13 - Lost Chance](journal/2026-01-13.md)
+- [2026-01-14 - Police car came](journal/2026-01-14.md)
+- [2026-01-15 - Articles](journal/2026-01-15.md)
+- [2026-01-16 - Cats fight](journal/2026-01-16.md)
+- [2026-01-17 - Sunny, but Yellowing](journal/2026-01-17.md)
 - 
