@@ -1,13 +1,18 @@
-＃ archive index
+# 🗄️ Archive Index
 
-## 2025　October
+Entries written during the preparation period.  
+These files contain **Original** and **Corrected** texts only.
+
+## 2025 October
 
 ## 2025 November
 
 ## 2025 December
 
 
-# journal index
+# 📓 Journal Index
+
+Ongoing daily diary entries published after the official start.  
+Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Phrase**.
 
 ## 2026 January
-
