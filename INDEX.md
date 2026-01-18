@@ -58,6 +58,37 @@ These files contain **Original** and **Corrected** texts only.
 
 
 ## 2025 December
+- [2025-12-01 - The last month](archive/2025-12-01.md)
+- [2025-12-02 - What do I do for fun?](archive/2025-12-02.md)
+- [2025-12-03 - Brain Flexibility](archive/2025-12-03.md)
+- [2025-12-04 - Using the calendar as a diary](archive/2025-12-04.md)
+- [2025-12-05 - Full monon](archive/2025-12-05.md)
+- [2025-12-06 - Go to the Dentist](archive/2025-12-06.md)
+- [2025-12-07 - Begin filing my taxes](archive/2025-12-07.md)
+- [2025-12-08 - Improve English](archive/2025-12-08.md)
+- [2025-12-09 - Easy days at work](archive/2025-12-09.md)
+- [2025-12-10 - Let’s get started!](archive/2025-12-10.md)
+- [2025-12-11 - Beware of upsets](archive/2025-12-11.md)
+- [2025-12-12 - Year-End Party 0rganizer](archive/2025-12-12.md)
+- [2025-12-13 - Walking with the Camera](archive/2025-12-13.md)
+- [2025-12-14 - A Happy Birthday, N](archive/2025-12-14.md)
+- [2025-12-15 - Payday](archive/2025-12-15.md)
+- [2025-12-16 - AI is amazing!](archive/2025-12-16.md)
+- [2025-12-17 - Climbing in the town?](archive/2025-12-17.md)
+- [2025-12-18 - Work efficiency](archive/2025-12-18.md)
+- [2025-12-19 - Broken Senbei](archive/2025-12-19.md)
+- [2025-12-20 - Christmas Present](archive/2025-12-20.md)
+- [2025-12-21 - Thanks a lot](archive/2025-12-21.md)
+- [2025-12-22 - Negative Example](archive/2025-12-22.md)
+- [2025-12-23 - Car Stickers](archive/2025-12-23.md)
+- [2025-12-24 - Am I irritated?](archive/2025-12-24.md)
+- [2025-12-25 - Beloved S-chan](archive/2025-12-25.md)
+- [2025-12-26 - Wandering person](archive/2025-12-26.md)
+- [2025-12-27 - Time flies](archive/2025-12-27.md)
+- [2025-12-28 - Too much topics, Today](archive/2025-12-28.md)
+- [2025-12-29 - Busy Day?](archive/2025-12-29.md)
+- [2025-12-30 - House-sitting](archive/2025-12-30.md)
+- [2025-12-31 - Year-end Day](archive/2025-12-31.md)
 
 
 ## 2026 January
