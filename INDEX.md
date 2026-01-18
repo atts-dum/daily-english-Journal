@@ -25,6 +25,36 @@ These files contain **Original** and **Corrected** texts only.
 
 
 ## 2025 November
+- [2025-11-01 - R was coming](archive/2025-11-01.md)
+- [2025-11-02 - Watching the whole game](archive/2025-11-02.md)
+- [2025-11-03 - Preparing for tax filing](archive/2025-11-03.md)
+- [2025-11-04 - Progress in English Learning?](archive/2025-11-04.md)
+- [2025-11-05 - Don’t keep the horn](archive/2025-11-05.md)
+- [2025-11-06 - Cut the smartphone bill](archive/2025-11-06.md)
+- [2025-11-07 - Haircutting](archive/2025-11-07.md)
+- [2025-11-08 - Ukraine’s Fourth Winter](archive/2025-11-08.md)
+- [2025-11-09 - Excel Data](archive/2025-11-09.md)
+- [2025-11-10 - Expenses Review](archive/2025-11-10.md)
+- [2025-11-11 - Reduce Weight](archive/2025-11-11.md)
+- [2025-11-12 - Short tempered](archive/2025-11-12.md)
+- [2025-11-13 - Reviewed smartphone plans](archive/2025-11-13.md)
+- [2025-11-14 - Speed of Time](archive/2025-11-14.md)
+- [2025-11-15 - Planting and Harvesting](archive/2025-11-15.md)
+- [2025-11-16 - Watching a movie](archive/2025-11-16.md)
+- [2025-11-17 - Short-tempered once again](archive/2025-11-17.md)
+- [2025-11-18 - Is AI a friend](archive/2025-11-18.md)
+- [2025-11-19 - Presents from user](archive/2025-11-19.md)
+- [2025-11-20 - Safe Drive and Error Reduct](archive/2025-11-20.md)
+- [2025-11-21 - Between Seasons](archive/2025-11-21.md)
+- [2025-11-22 - Litening to Yuming](archive/2025-11-22.md)
+- [2025-11-23 - Ukrainian win](archive/2025-11-23.md)
+- [2025-11-24 - Start toward the goal](archive/2025-11-24.md)
+- [2025-11-25 - The camera arrived](archive/2025-11-25.md)
+- [2025-11-26 - Start a small business?](archive/2025-11-26.md)
+- [2025-11-27 - WW2, Battle of Peleliu, Paradise’s Guernica](archive/2025-11-27.md)
+- [2025-11-28 - Go to the barber](archive/2025-11-28.md)
+- [2025-11-29 - A Present for N](archive/2025-11-29.md)
+- [2025-11-30 - Photographing birds](archive/2025-11-30.md)
 
 
 ## 2025 December
