@@ -92,7 +92,11 @@ These files contain **Original** and **Corrected** texts only.
 
 
 ## 2026 January
-
+- [2026-01-01 - Weight Loss Start](archive/2026-01-01.md)
+- [2026-01-02 - First shrine visit](archive/2026-01-02.md)
+- [2026-01-03 - Highway drive to N’s place](archive/2026-01-03.md)
+- [2026-01-04 - Create AI apps](archive/2026-01-04.md)
+- [2026-01-05 - First day of work](archive/2026-01-05.md)
 
 
 # 📓 Journal Index
