@@ -6,8 +6,24 @@
 
 ---
 
+## 🚀 START HERE
+If this is your first visit, please begin here:
+
+- 📂 **Daily Entries (Archive)**  
+  → The chronological diary data (original, corrected, memo).  
+  **[Go to /archive](./archive/)**
+
+- 🧭 **Project Index / Navigation**  
+  → How to read this repository and understand its structure.  
+  **[Go to INDEX](./INDEX.md)**
+
+---
+
 ## 📝 Project Overview
-This repository documents a daily English diary process: **Self-Written Draft → AI Correction (DeepL) → Reflection.** It is not a display of "perfect English," but a raw, longitudinal record of a Japanese learner's psychological and linguistic struggles as I approach my 70s.
+This repository documents a daily English diary process:  
+**Self-Written Draft → AI Correction (DeepL) → Reflection.**  
+
+It is not a display of "perfect English," but a raw, longitudinal record of a Japanese learner's psychological and linguistic struggles as I approach my 70s.
 
 ## 🎓 Value for Researchers & Educators
 * **For Linguists:** An open learner corpus showcasing persistent errors ("Fossilization") and Japanese-influenced syntax.
@@ -16,10 +32,10 @@ This repository documents a daily English diary process: **Self-Written Draft �
 * **For AI Scholars:** Data on the "delta" (gap) between human output and AI-mediated communication (AIC).
 
 ## 📂 Entry Structure
-1.  **Original:** Raw, unpolished English output.
-2.  **Corrected:** Revised version by AI tools.
-3.  **Memo (dum!):** Casual reflections on daily life and the learning process, written in Japanese.
-4.  **Picked Phrase:** Useful expressions acquired.
+1. **Original:** Raw, unpolished English output.
+2. **Corrected:** Revised version by AI tools.
+3. **Memo (dum!):** Casual reflections on daily life and the learning process, written in Japanese.
+4. **Picked Phrase:** Useful expressions acquired.
 
 ## ⚖️ License
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
