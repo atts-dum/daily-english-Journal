@@ -4,7 +4,7 @@
 **Author:** A soon-to-be 70-year-old Japanese learner  
 **Theme:** Human-AI Symbiosis, Digital Aging, and L2 Fossilization  
 
-**A public L2 English learning journal from Japan, updated daily.
+**A public L2 English learning journal from Japan, updated daily.  
 
 ---
 
