@@ -39,8 +39,8 @@ It is not a display of "perfect English," but a raw, longitudinal record of a Ja
 * **For AI Scholars:** Data on the "delta" (gap) between human output and AI-mediated communication (AIC).
 
 ## 📂 Entry Structure
-1. **Original:** Raw, unpolished English output.
-2. **Corrected:** Revised version by AI tools.
+1. **Original 🤔:** Raw, unpolished English output.
+2. **Corrected 🤖:** Revised version by AI tools.
 3. **Memo (dum!):** Casual reflections on daily life and the learning process, written in Japanese.
 4. **Picked Phrase:** Useful expressions acquired.
 
