@@ -45,11 +45,10 @@ Standard textbooks often fail to capture the “real face” of a Japanese learn
 
 Each daily entry typically consists of:
 
-- **Original:** The raw text I wrote by myself (revealing raw ability).
-- **Corrected:** A revised version generated using AI tools (mainly DeepL Translation/Write).
-- **Memo (dum!):** Rough, casual, and half-silly personal notes to capture my state of mind, written in Japanese.
-- **Picked Phrase:** Specific expressions I found useful during the process.
-
+- **Original 🤔:** The raw text I wrote by myself (revealing raw ability).
+- **Corrected 🤖:** A revised version generated using AI tools (mainly DeepL Translation/Write).
+- **Memo (dum!):** Rough, casual, and half-silly personal notes to capture my state of mind, written in Japanese. English translations are also provided.  🤖  
+- **Picked Phrase:** Specific expressions I found useful during the process. English translations as well.  🤖  
 ---
 
 ## A Note on Authenticity and “Cheating”
