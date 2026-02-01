@@ -133,4 +133,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-01-31 - A half portion?](journal/2026-01-31.md)
 
 ## 2026 February
-- [2026-02-01 - A half Scroll Hell](journal/2026-02-01.md)
+- [2026-02-01 - Scroll Hell](journal/2026-02-01.md)
